@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    flex-direction: row;
+    
+}
+
+.inputbox{
+    border: thin solid yellow;
+    position: relative;
+    width: 250px;
+    height: 7vh;
+    font-size: 40px;
+    color: yellow;
+    
+}
+h2{
+   color: yellow;
+
+}
+
+
